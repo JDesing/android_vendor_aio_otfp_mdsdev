@@ -51,3 +51,5 @@ Front Camera | 5 MP, f/2.4
 
 ### Thanks to:
  * Daniel_hk
+ * GSandeep
+ * FeyoMx
