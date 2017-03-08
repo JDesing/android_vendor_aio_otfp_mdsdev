@@ -14,7 +14,7 @@ Tipo de Componente | Detalles
 CPU     | Octa-core 1.7 GHz Cortex-A53 MT6752 
 GPU     | Mali-T760MP2
 Memoria | 2GB RAM
-Empezó en Android | 5.0
+Android | 7.1.1
 Almacenamiento | 16GB
 Batteria | 3000 mAh
 Pantalla | 5.5" 1080 x 1920 pixels (~401 ppi)
