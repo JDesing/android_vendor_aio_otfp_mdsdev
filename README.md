@@ -1,7 +1,7 @@
 Lenovo K3 Note 
 ==============
 
-Esta branch es para construir el vendor de LineageOS 14.1.
+Branch para construir el vendor de LineageOS 14.1.
 
 # Acerca del Dispositivo
 
@@ -23,7 +23,7 @@ Camara frontal | 5 MP, f/2.4
 
 ---
 
-# Información de Contrucción
+# Información de Construcción
 
 ### Funcionando:
  * Wi-Fi
@@ -43,7 +43,7 @@ Camara frontal | 5 MP, f/2.4
  * RIL para SMS/Llamadas/Internet/LTE 
  * MTP
 
-### No Funcionan:
+### No Funciona:
 
  * Carga Offline
  * Radio FM
