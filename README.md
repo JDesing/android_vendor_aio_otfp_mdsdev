@@ -1,55 +1,54 @@
 Lenovo K3 Note 
 ==============
 
-This branch is vendor building of the LineageOS 14.1.
+Esta branch es para construir el vendor de LineageOS 14.1.
 
-# About Device
+# Acerca del Dispositivo
 
-![Lenovo K3 Note](http://cdn.ndtv.com/tech/images/lenovo_k3_note_flipkart.jpg?output-quality=80&output-format=jpg "Lenovo K3 Note in black")
+![Lenovo K3 Note](http://cdn.ndtv.com/tech/images/lenovo_k3_note_flipkart.jpg?output-quality=80&output-format=jpg "Lenovo K3 Note en negro")
 
-### Specifications
+### Especificaciones
 
-Component Type | Details
+Tipo de Componente | Detalles
 -------:|:-------------------------
 CPU     | Octa-core 1.7 GHz Cortex-A53 MT6752 
 GPU     | Mali-T760MP2
-Memory  | 2GB RAM
-Shipped Android Version | 5.0
-Storage | 16GB
-Battery | 3000 mAh
-Display | 5.5" 1080 x 1920 pixels (~401 ppi pixel density)
-Rear Camera | 13 MP, f/2.0, autofocus, dual-LED flash
-Front Camera | 5 MP, f/2.4
+Memoria | 2GB RAM
+Empezó en Android | 5.0
+Almacenamiento | 16GB
+Batteria | 3000 mAh
+Pantalla | 5.5" 1080 x 1920 pixels (~401 ppi)
+Camara trasera | 13 MP, f/2.0, autofocus, dual-LED flash
+Camara frontal | 5 MP, f/2.4
 
 ---
 
-# Build Information
+# Información de Contrucción
 
-### Working:
+### Funcionando:
  * Wi-Fi
  * Wi-Fi tethering
  * GPS
  * Bluetooth
  * AGPS
- * Vibration
+ * Vibración
  * Audio
- * Auto brightness
- * RAM and ROM
- * Rotation
- * All sensors
- * Flashlight (statusbar and camera)
- * Camera rear/front (video and photo)
- * Micro SD support
- * RIL for SMS/calls/internet/LTE 
- * MTP 
+ * Brillo Automático
+ * RAM y ROM
+ * Rotación
+ * Todos los sensores
+ * LED Flash (barra de estado y camara)
+ * Camara del/tras (Foto y Video)
+ * Soporta Micro SD
+ * RIL para SMS/Llamadas/Internet/LTE 
+ * MTP
 
-### Not Working:
+### No Funcionan:
 
- * Offline charging
- * FM radio
- * LED Notifications
+ * Carga Offline
+ * Radio FM
+ * LED de Notificaciones
 
-### Thanks to:
- * Daniel_hk
+### Gracias a:
  * GSandeep
  * FeyoMx
